@@ -1,0 +1,7 @@
+HiFiBerry DAC STandard Pins
+-------
+
+27 / 28 = nein
+- GPIO2-3 (pins 3 and 5) are used by our products for configuration. If you are experienced with I2C, you might add other slave devices. If you a a novice, we don’t recommend this at all.
+- GPIOs 18-21 (pins 12, 35, 38 and 40) are used for the sound interface. You can’t use them for any other purpose.
+

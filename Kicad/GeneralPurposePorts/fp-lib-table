@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name GPIORASPI)(type KiCad)(uri "$(KIPRJMOD)/GPIORASPI.pretty")(options "")(descr ""))
+  (lib (name 1)(type KiCad)(uri "$(KIPRJMOD)/printed_gphcs/1.pretty")(options "")(descr ""))
+  (lib (name 2)(type KiCad)(uri "$(KIPRJMOD)/printed_gphcs/2.pretty")(options "")(descr ""))
+)
